@@ -1,4 +1,4 @@
-# LoanEligibility
+# Loan Eligibility
 - Data Cleaning 
 - Feature Engineering 
 - Imbalanced Data handeling 
